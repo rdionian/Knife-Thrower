@@ -42,6 +42,9 @@ ExportedObj/
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Large asset packages
+*.unitypackage
+
 # Backup files
 *.bak
 
