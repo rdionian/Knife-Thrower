@@ -45,6 +45,9 @@ crashlytics-build.properties
 # Large asset packages
 *.unitypackage
 
+# Third-party assets
+Assets/SurrounDead/
+
 # Backup files
 *.bak
 
